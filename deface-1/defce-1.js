@@ -26,7 +26,7 @@
 
     // 4. Content
     container.innerHTML = `
-        <h1 style="color: #ff3e3e; font-size: 2.5rem; margin-bottom: 10px;">Security Alert</h1>
+        <h1 style="color: #ff3e3e; font-size: 2.5rem; margin-bottom: 10px;">You are Hacked by M.Sudais Usmani</h1>
         <p style="font-size: 1.2rem; color: #ccc;">This website is currently vulnerable to <b>Reflected XSS</b>.</p>
         <hr style="border: 0; border-top: 1px solid #333; margin: 20px 0;">
         <p style="font-size: 1rem; line-height: 1.6;">
